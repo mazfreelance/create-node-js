@@ -10,5 +10,9 @@
 		"name": "Maz Webfreelance",
 		"email": "maz.webfreelance@gmail.com"
 	},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazfreelance/create-node-js.git"
+  },
   "license": "ISC"
 }
