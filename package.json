@@ -1,0 +1,14 @@
+{
+  "name": "npm-demo-testing-maz",
+  "version": "1.0.1",
+  "description": "A demo package for a video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+	"author": {
+		"name": "Maz Webfreelance",
+		"email": "maz.webfreelance@gmail.com"
+	},
+  "license": "ISC"
+}
